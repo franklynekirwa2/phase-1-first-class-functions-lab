@@ -22,7 +22,7 @@ const selectingDrivers=[returnFirstTwoDrivers, returnLastTwoDrivers];
         return selection (drivers);
      };
 
- //const drivers = ['Antonia', 'Nuru', 'Amari', 'Mo'];
+
 
 console.log(selectDifferentDrivers(drivers, returnFirstTwoDrivers));
 console.log(selectDifferentDrivers(drivers, returnLastTwoDrivers));
